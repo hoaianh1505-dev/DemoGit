@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 hello from my computer
-=======
-hello from github
->>>>>>> d0dadb7144362e21d93431b06cee2a1820e39120
+
+
